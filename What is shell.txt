@@ -1,0 +1,8 @@
+CLI - Command line Interface
+Terminal - it is a tool which we cna use to pass the shell command.
+Shell - Shell is a program that takes command from the keyboard and gives it to the os.
+
+Commands 
+pwd - present work directory
+ls - for list out the files
+cd / - To go the root directory
